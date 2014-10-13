@@ -1,12 +1,12 @@
 {
-    "name": "cornford/bootstrapper",
-    "description": "An easy way to intergrate Twitter Bootstrap with Laravel 4.",
+    "name": "davidangel/bootstrapper",
+    "description": "An easy way to intergrate Twitter Bootstrap with Laravel 5.",
     "keywords": ["laravel", "bootstrap", "twitter", "form", "alerts", "views", "templates"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Bradley Cornford",
-            "email": "me@bradleycornford.co.uk"
+            "name": "David Angel",
+            "email": "david@davidangel.net"
         }
     ],
     "require": {
